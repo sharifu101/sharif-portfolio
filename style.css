@@ -1,0 +1,39 @@
+body {
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.color1 {
+    color: #F94102;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 200;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(aqua, orange);
+    font-weight: 600;
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
