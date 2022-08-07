@@ -57,3 +57,38 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.flex {
+    display: flex;
+}
+
+.padding-s {
+    padding: 5%;
+}
+
+.sec {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.width3 {
+    box-shadow: 3px 3px 30px #F94102;
+    width: 30%;
+    padding: 4%;
+    margin-left: 9%;
+    margin-right: 4px;
+    border-radius: 5%;
+}
+
+.ex {
+    margin-left: 5%;
+}
+
+.last-color {
+    color: #F94102;
+}
+
+footer p {
+    text-align: center;
+}
